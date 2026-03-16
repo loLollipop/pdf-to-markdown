@@ -1,0 +1,5 @@
+requests>=2.32.0
+pymupdf4llm>=0.0.17
+fastapi>=0.112.0
+uvicorn>=0.30.0
+python-multipart>=0.0.9
